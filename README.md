@@ -1,7 +1,7 @@
 # Design vs. Art
 ### Artist Review: Kehinda Wiley
 ##### Shantavia Beale II, 2012:
-! [Shantavia Beale II, 2012]
+[Shantavia Beale II, 2012]
 (http://cbsnews1.cbsistatic.com/hub/i/2015/10/31/afdc2956-5819-4617-ba36-f310fcb4d1fc/wiley-pa12-033-shantavia-beale-ii-photo-jason-wyche.jpg)   
 
 1. When I looked at the peace I felt beautiful. This woman could be me.   
@@ -10,7 +10,7 @@
 
 ### Designer Review: Jessica Hische
 ##### CAA Friday Night Pary 2014
-![CAA Friday Night Pary 2014]
+[CAA Friday Night Pary 2014]
 (http://jessicahische.is/alldolledupandreadytoparty)
 
 1. The invitees to the Creative Artist Agencies *Oscar* viewing party.
